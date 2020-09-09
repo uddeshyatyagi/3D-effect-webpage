@@ -182,6 +182,8 @@ h1::after{
 }
 .contact-form{
 	padding: 15px;
+	background:black;
+	color:blue;
 }
 .form-control{
 	border-radius: 0 !important;
@@ -197,18 +199,20 @@ h1::after{
 	background: green !important;
 	box-shadow: none !important;
 	border-radius: 0 !important;
+
 }
 
 .contact-info .follow{
-	background-color: #fff;
+	background-color: black;
 	padding: 8px;
 	margin:15px;
+	color: #fff;
 }
 
 .contact-info .fa{
 	margin:10px;
 	font-size:20px !important; 
-	color: #ff4d73 !important;
+	color: blue !important;
 	font-weight: bold;
 	padding-right: 20px;
 }
@@ -230,6 +234,7 @@ h1::after{
 .footer hr{
 	margin-top: 50px;
 	background: #ff4d73;
+	font-weight: bold;
 }
 
 .service,.feature,.footer{
